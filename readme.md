@@ -1,4 +1,4 @@
-This project was created to assist in individuals calculating their birthday days as long as one can remember the date(Date,Months and Year) one was born. The project has been created by using various languages such as HTML; CSS;Java-Script and Bootstrap. The project also has a ReadMe.
+This project was created to assist in individuals calculating their birthday days as long as one can remember the date(Date,Months and Year) one was born. The project has been created by using various languages such as HTML; CSS;Java-Script ; Bootstrap and Jquery. The project also has a ReadMe.
 By Jean Bede
 Description
 This project entails on the very fast beging and guidelines on website creation. It has got simple and clear procedures to follow instructions which can be used by everyone who would like to start learning how to create a website or might have a addition on the site created already. Every views and addition are much welcomed.
@@ -6,7 +6,7 @@ This project entails on the very fast beging and guidelines on website creation.
 Setup/Installation Requirements
 Move into the cloned directory
 
-Clone the repository to your local machine *Then use the terminal to open the project. *Preferably open the project by using Visual basics coding tool. $ git clone :https://jeanbede.github.io/birthday-calender/
+Clone the repository to your local machine *Then use the terminal to open the project. *Preferably open the project by using Visual basics coding tool. $ git clone :https:https://github.com/Jeanbede/alma-designs
 
 *Much advisible one to download on the local machichine below softwares; 
 A. Visual Basic Studio for coding.
@@ -23,7 +23,7 @@ Technologies Used
 HTML ;CSS; Java-Script; Bootstrap
 
 Support and contact details
-If your would like to contribute to this project, fork the project and raise a PR: You can reach us throuh mailing: <njeanbeda@hotmail com> Tel: 098756879(fax: 09090) WEBSITE: https://jeanbede.github.io/birthday-calender/
+If your would like to contribute to this project, fork the project and raise a PR: You can reach us throuh mailing: <njeanbeda@hotmail com> Tel: 098756879(fax: 09090) WEBSITE: https://github.com/Jeanbede/alma-designs
 
 <License>
 MIT Copyright (c) 2020 Jean Bede.
