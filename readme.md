@@ -1,4 +1,4 @@
-This project was created to assist in individuals calculating their birthday days as long as one can remember the date(Date,Months and Year) one was born. The project has been created by using various languages such as HTML; CSS;Java-Script ; Bootstrap and Jquery. The project also has a ReadMe.
+This project was created to landing page on  enterprise website. The project has been created by using various languages such as HTML; CSS;Java-Script ; Bootstrap and Jquery. The project also has a ReadMe.
 By Jean Bede
 Description
 This project entails on the very fast beging and guidelines on website creation. It has got simple and clear procedures to follow instructions which can be used by everyone who would like to start learning how to create a website or might have a addition on the site created already. Every views and addition are much welcomed.
